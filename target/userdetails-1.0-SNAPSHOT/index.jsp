@@ -43,9 +43,9 @@
 <sql:setDataSource
         var="db"
         driver="org.postgresql.Driver"
-        url="jdbc:postgresql://localhost/userinfo"
-        user="postgres"
-        password="password" />
+        url="postgres://sqjnybbfyiumag:e925ec94593d3ab59cee11da6475f1b2ce6511643c796b0b1aed44bbbb8ccbdd@ec2-107-22-83-3.compute-1.amazonaws.com:5432/dbrbkuktv99uo7"
+        user="sqjnybbfyiumag"
+        password="e925ec94593d3ab59cee11da6475f1b2ce6511643c796b0b1aed44bbbb8ccbdd" />
 
 
 <c:choose>
