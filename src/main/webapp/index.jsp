@@ -43,7 +43,7 @@
 <sql:setDataSource
         var="db"
         driver="org.postgresql.Driver"
-        url="postgres://iyboormxbvcbzl:ce90a26a1b2a529dfc1ba7067092d8e83d18bab5c10913bcf5ce6090a199dc19@ec2-52-87-107-83.compute-1.amazonaws.com:5432/d10fott6o6lkl"
+        url="jdbc:postgres://iyboormxbvcbzl:ce90a26a1b2a529dfc1ba7067092d8e83d18bab5c10913bcf5ce6090a199dc19@ec2-52-87-107-83.compute-1.amazonaws.com:5432/d10fott6o6lkl"
         user="iyboormxbvcbzl"
         password="ce90a26a1b2a529dfc1ba7067092d8e83d18bab5c10913bcf5ce6090a199dc19" />
 
